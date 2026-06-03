@@ -47,7 +47,7 @@ const Header = () => {
             whileHover={{ scale: 1.05 }}
           >
             <Link to="hero" smooth duration={500} className="cursor-pointer">
-              VP
+              NK
             </Link>
           </motion.div>
 
